@@ -18,7 +18,8 @@ let valueInNumber = Number(score)
 // score = true/false; output = 1/0
 // score = "koni"; output = NaN
 
-// as per examinataion in number there are many cases with different result {(33) number,(33aed) NaN,("33") string,(null) 0,(undifined) NaN,(true/false) 1/0,("koni") NaN
+// as per examinataion in number there are many cases with different result {(33) number,
+// (33aed) NaN,("33") string,(null) 0,(undifined) NaN,(true/false) 1/0,("koni") NaN
 
 
 let isLoggedIn = 1
